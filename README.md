@@ -1,2 +1,3 @@
 # hello-world
-test propsitory
+test repository
+test commit
